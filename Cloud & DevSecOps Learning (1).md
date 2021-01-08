@@ -46,3 +46,7 @@
 - **Service Mesh with Istio (**[**https://acloudguru.com/course/service-mesh-with-istio**](https://acloudguru.com/course/service-mesh-with-istio)**)**
 - **Kubernetes Security (**[**https://acloudguru.com/course/kubernetes-security**](https://acloudguru.com/course/kubernetes-security)**)**
 - **Kubernetes Security (Advanced Concepts) - (**[**https://acloudguru.com/course/kubernetes-security-advanced-concepts**](https://acloudguru.com/course/kubernetes-security-advanced-concepts)**)**
+
+**AWS**
+- ** AWS Well Architected Labs - Security (**https://www.wellarchitectedlabs.com/security/**)**
+- ** AWS Cloud Audit Academy - (**https://aws.amazon.com/compliance/auditor-learning-path/**)**
