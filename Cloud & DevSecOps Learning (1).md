@@ -25,6 +25,9 @@
 - **Getting Started with HashiCorp Vault (**[**https://www.udemy.com/course/hashicorp-vault/**](https://www.udemy.com/course/hashicorp-vault/)**)**
 - **HashiCorp Certified: Vault Associate 2021 (**[**https://www.udemy.com/course/hashicorp-certified-vault-associate/**](https://www.udemy.com/course/hashicorp-certified-vault-associate/)**)**
 - **HashiCorp Vault: The Advanced Course (**[**https://www.udemy.com/course/vaultadvanced/**](https://www.udemy.com/course/vaultadvanced/)**)**
+- **AZ-900: Microsoft Azure Fundamentals Exam Prep - A good Azure basics course for all audiences. (**[**https://www.udemy.com/course/az900-azure/**](https://www.udemy.com/course/az900-azure/)**)**
+- **AZ-303 Azure Architecture Technologies Exam Prep 2021 - This course goes into much more of the technical, engineering, and solutions architecture details of Azure. (**[**https://www.udemy.com/course/70534-azure/**](https://www.udemy.com/course/70534-azure/)**)
+- **Azure Courses Taught by Scott Duffy - He's good at explaining complicated matters in plan language and is a thorough teacher (**[**https://www.udemy.com/user/scottduffy2/**](https://www.udemy.com/user/scottduffy2/)**)**
 
 **ACloudGuru – Leading Cloud-learning platform provider, includes built-in labs and playgrounds**
 
