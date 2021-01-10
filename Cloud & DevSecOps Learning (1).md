@@ -53,6 +53,7 @@
 **AWS**
 -  AWS Well Architected Labs - Security (**https://www.wellarchitectedlabs.com/security/**)
 -  AWS Cloud Audit Academy - (**https://aws.amazon.com/compliance/auditor-learning-path/**)
+- ** AWS EKS Best Practices Guide for Security (**https://aws.github.io/aws-eks-best-practices/security/docs/**)
 
 **Department of Defense**
 - USAF (**https://software.af.mil/training/**) 
