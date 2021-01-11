@@ -55,6 +55,11 @@
 -  AWS Cloud Audit Academy - (**https://aws.amazon.com/compliance/auditor-learning-path/**)
 - AWS EKS Best Practices Guide for Security (**https://aws.github.io/aws-eks-best-practices/security/docs/**)
 
+**Open Policy Agent (OPA)**
+- OPA Playground (**https://play.openpolicyagent.org/**)
+- OPA Documentation (**https://www.openpolicyagent.org/docs/latest/#:~:text=The%20Open%20Policy%20Agent%20(OPA,decision%2Dmaking%20from%20your%20software.**)
+
+
 **Department of Defense**
 - USAF (**https://software.af.mil/training/**) 
 - DoD Cyber Exchange DevSecOps (**https://public.cyber.mil/devsecops/**)
