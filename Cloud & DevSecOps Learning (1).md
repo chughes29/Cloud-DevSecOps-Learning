@@ -67,3 +67,6 @@
 - DevSecOps Enterprise Container Hardening Guide 1.1 (**https://dl.dod.cyber.mil/wp-content/uploads/devsecops/pdf/Final_DevSecOps_Enterprise_Container_Hardening_Guide_1.1.pdf**)
 - DoD Enterprise DevSecOps Reference Design v1.0 (**https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583**)
 - Kubernetes Draft STIG - Ver1, Rel 0.1 (**https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Kubernetes_V1R0-1_Manual_STIG.zip**)
+
+**Miscellaneous Resources**
+- git - the simple guide: just a simple guide for getting started with git. no deep shit ;) (**https://rogerdudler.github.io/git-guide/**) 
