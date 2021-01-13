@@ -62,6 +62,17 @@
 - OPA Playground (**https://play.openpolicyagent.org/**)
 - OPA Documentation (**https://www.openpolicyagent.org/docs/latest/#:~:text=The%20Open%20Policy%20Agent%20(OPA,decision%2Dmaking%20from%20your%20software.**)
 
+**Red Hat**
+- Introduction to building and manage containers on a Red Hat OpenShift cluster (DO180 - 4 day course) (**https://www.redhat.com/en/services/training/do180-red-hat-openshift-I-containers-kubernetes**)
+- Configure, manage, and troubleshoot OpenShift clusters and containerized applications (DO280 - 4 day course) (**https://www.redhat.com/en/services/training/do280-red-hat-openshift-administration-II-operating-production-kubernetes-cluster**)
+- Plan, implement, and manage OpenShift clusters on an Enterprise scale (DO380 - 5 day course) (**https://www.redhat.com/en/services/training/do380-red-hat-openshift-administration-III-scaling-kubernetes-deployments-enterprise**)
+- Design, build, and deploy containerized software applications to an OpenShift cluster (DO288 - 5 day course) (**https://www.redhat.com/en/services/training/do288-red-hat-openshift-development-ii-containerizing-applications**)
+- Develop microservice-based applications in Java EE with MicroProfile and OpenShift (DO283 - 4 day course) (**https://www.redhat.com/en/services/training/do283-red-hat-application-development-ii-implementing-microservice-architectures**)
+- Control, manage, trace, monitor, and test your microservices with Red Hat OpenShift Service Mesh (DO328 - 4 day course) (**https://www.redhat.com/en/services/training/do328-building-resilient-microservices-with-istio-and-red-hat-openshift-service-mesh**)
+- DevOps Culture and Practice Enablement (DO500 - 5 day course) (**https://www.redhat.com/en/services/training/do500-devops-culture-and-practice-enablement**)
+- Automating Linux system administration tasks with Ansible (RH294 - 5 day course) (**https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible**)
+- Managing automation at scale with Ansible Tower (DO447 - 5 day course) (**https://www.redhat.com/en/services/training/do447-advanced-automation-ansible-best-practices**)
+- Mitigating and managing threats to OpenShift container-based infrastructure (DO4255 - 5 day course) (**https://www.redhat.com/en/services/training/do425-red-hat-security-securing-containers-and-openshift**)
 
 **Department of Defense**
 - USAF (**https://software.af.mil/training/**) 
