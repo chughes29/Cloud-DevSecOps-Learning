@@ -7,7 +7,7 @@
 
 **Cloud Native Computing Foundation (CNCF)** - Part of the Linux Foundation, bringing together the world's top developers, end users and vendors.
 
-- **CNCF Security Whitepaper (**https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf**)
+- CNCF Security Whitepaper (**https://github.com/cncf/sig-security/blob/master/security-whitepaper/CNCF_cloud-native-security-whitepaper-Nov2020.pdf**)
 
 **KodeKloud**  **- Learning platfrom that had video courses with built-in web-based CLI/hands-on learning activities for Kubernetes, Terraform, Git and more.**
 
