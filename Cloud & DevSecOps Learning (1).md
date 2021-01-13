@@ -50,6 +50,9 @@
 - **Kubernetes Security (**[**https://acloudguru.com/course/kubernetes-security**](https://acloudguru.com/course/kubernetes-security)**)**
 - **Kubernetes Security (Advanced Concepts) - (**[**https://acloudguru.com/course/kubernetes-security-advanced-concepts**](https://acloudguru.com/course/kubernetes-security-advanced-concepts)**)**
 
+**Cloud Academy**
+- DevSecOps - Build and Release Secure Software Faster (**https://cloudacademy.com/learning-paths/devsecops-2479/**)
+
 **AWS**
 -  AWS Well Architected Labs - Security (**https://www.wellarchitectedlabs.com/security/**)
 -  AWS Cloud Audit Academy - (**https://aws.amazon.com/compliance/auditor-learning-path/**)
