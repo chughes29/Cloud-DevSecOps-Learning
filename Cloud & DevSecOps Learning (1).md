@@ -72,7 +72,8 @@
 - CIS Benchmark GCP (https://www.cisecurity.org/benchmark/google_cloud_computing_platform/)
 - CIS Benchmark Kubernetes (https://www.cisecurity.org/benchmark/kubernetes/)
 
-
+**GitLab**
+- GitLab Training (https://about.gitlab.com/training/)
 
 **Department of Defense**
 - USAF (**https://software.af.mil/training/**) 
