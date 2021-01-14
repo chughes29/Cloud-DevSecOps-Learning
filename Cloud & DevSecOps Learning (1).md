@@ -66,6 +66,22 @@
 - OPA Playground (**https://play.openpolicyagent.org/**)
 - OPA Documentation (**https://www.openpolicyagent.org/docs/latest/#:~:text=The%20Open%20Policy%20Agent%20(OPA,decision%2Dmaking%20from%20your%20software.**)
 
+**Compliance**
+- CIS Benchmark AWS (https://www.cisecurity.org/benchmark/amazon_web_services/)
+- CIS Benchmark Azure (https://www.cisecurity.org/benchmark/azure/)
+- CIS Benchmark GCP (https://www.cisecurity.org/benchmark/google_cloud_computing_platform/)
+- CIS Benchmark Kubernetes (https://www.cisecurity.org/benchmark/kubernetes/)
+
+
+
+**Department of Defense**
+- USAF (**https://software.af.mil/training/**) 
+- DoD Cyber Exchange DevSecOps (**https://public.cyber.mil/devsecops/**)
+- Container Platform SRG (**https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Container_Platform_V1R1_SRG.zip**)
+- DevSecOps Enterprise Container Hardening Guide 1.1 (**https://dl.dod.cyber.mil/wp-content/uploads/devsecops/pdf/Final_DevSecOps_Enterprise_Container_Hardening_Guide_1.1.pdf**)
+- DoD Enterprise DevSecOps Reference Design v1.0 (**https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583**)
+- Kubernetes Draft STIG - Ver1, Rel 0.1 (**https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Kubernetes_V1R0-1_Manual_STIG.zip**)
+
 **Red Hat**
 - Introduction to building and manage containers on a Red Hat OpenShift cluster (DO180 - 4 day course) (**https://www.redhat.com/en/services/training/do180-red-hat-openshift-I-containers-kubernetes**)
 - Configure, manage, and troubleshoot OpenShift clusters and containerized applications (DO280 - 4 day course) (**https://www.redhat.com/en/services/training/do280-red-hat-openshift-administration-II-operating-production-kubernetes-cluster**)
@@ -77,14 +93,6 @@
 - Automating Linux system administration tasks with Ansible (RH294 - 5 day course) (**https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible**)
 - Managing automation at scale with Ansible Tower (DO447 - 5 day course) (**https://www.redhat.com/en/services/training/do447-advanced-automation-ansible-best-practices**)
 - Mitigating and managing threats to OpenShift container-based infrastructure (DO4255 - 5 day course) (**https://www.redhat.com/en/services/training/do425-red-hat-security-securing-containers-and-openshift**)
-
-**Department of Defense**
-- USAF (**https://software.af.mil/training/**) 
-- DoD Cyber Exchange DevSecOps (**https://public.cyber.mil/devsecops/**)
-- Container Platform SRG (**https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Container_Platform_V1R1_SRG.zip**)
-- DevSecOps Enterprise Container Hardening Guide 1.1 (**https://dl.dod.cyber.mil/wp-content/uploads/devsecops/pdf/Final_DevSecOps_Enterprise_Container_Hardening_Guide_1.1.pdf**)
-- DoD Enterprise DevSecOps Reference Design v1.0 (**https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf?ver=2019-09-26-115824-583**)
-- Kubernetes Draft STIG - Ver1, Rel 0.1 (**https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Kubernetes_V1R0-1_Manual_STIG.zip**)
 
 **Miscellaneous Resources**
 - git - the simple guide: just a simple guide for getting started with git. no deep shit ;) (**https://rogerdudler.github.io/git-guide/**) 
