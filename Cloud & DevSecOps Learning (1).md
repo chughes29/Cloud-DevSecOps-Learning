@@ -55,6 +55,9 @@
 **Cloud Academy**
 - DevSecOps - Build and Release Secure Software Faster (**https://cloudacademy.com/learning-paths/devsecops-2479/**)
 
+**StackRox**
+- Certified Kubernetes Security Study Guide (https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
+
 **AWS**
 - AWS Well Architected Labs - Security (**https://www.wellarchitectedlabs.com/security/**)
 - AWS Cloud Audit Academy - (**https://aws.amazon.com/compliance/auditor-learning-path/**)
