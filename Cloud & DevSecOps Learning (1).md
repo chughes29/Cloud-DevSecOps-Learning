@@ -18,6 +18,7 @@
 - Kubernetes for Absolute Beginners – Hands on – Learn Kubernetes with simple, easy lectures and hands-on labs (**[**https://kodekloud.com/p/kubernetes-for-the-absolute-beginners-hands-on**](https://kodekloud.com/p/kubernetes-for-the-absolute-beginners-hands-on)**)**
 - Certified Kubernetes Administrator with (CKA) with practice tests (**[**https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests**](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests)**) 17 hours long**
 - JSON/YAML Basics (**[**https://kodekloud.com/p/json-path-quiz**](https://kodekloud.com/p/json-path-quiz)**)**
+- Game of Pods (**[**https://kodekloud.com/p/game-of-pods-game**](https://kodekloud.com/p/game-of-pods-game)**)**
 
 **Udemy – Online learning site featuring a massive library of course selections.**
 
@@ -62,6 +63,11 @@
 - AWS Well Architected Labs - Security (**https://www.wellarchitectedlabs.com/security/**)
 - AWS Cloud Audit Academy - (**https://aws.amazon.com/compliance/auditor-learning-path/**)
 - AWS EKS Best Practices Guide for Security (**https://aws.github.io/aws-eks-best-practices/security/docs/**)
+- AWS training courses for many of the AWS certifications - still growing - (**https://learn.cantrill.io**)
+- AWS training course for the Machine Learning specialty - (**https://mikegchambers.teachable.com/p/aws-machine-learning-specialty-certification-course**)
+
+**Google Cloud**
+- Google Associate Cloud Engineer and Professional Cloud Architect certification preparation courses - (**https://training.antonit.com/**)
 
 **Open Policy Agent (OPA)**
 - OPA Playground (**https://play.openpolicyagent.org/**)
@@ -98,3 +104,4 @@
 
 **Miscellaneous Resources**
 - git - the simple guide: just a simple guide for getting started with git. no deep shit ;) (**https://rogerdudler.github.io/git-guide/**) 
+- terraform course featuring AWS, docker, and more - will prepare you for the Hashicorp Terraform certification and for using Terraform on the job (**https://www.udemy.com/course/terraform-certified/**)
