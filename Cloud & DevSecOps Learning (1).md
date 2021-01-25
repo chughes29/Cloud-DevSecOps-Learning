@@ -105,3 +105,4 @@
 **Miscellaneous Resources**
 - git - the simple guide: just a simple guide for getting started with git. no deep shit ;) (**https://rogerdudler.github.io/git-guide/**) 
 - terraform course featuring AWS, docker, and more - will prepare you for the Hashicorp Terraform certification and for using Terraform on the job (**https://www.udemy.com/course/terraform-certified/**)
+- Scott Piper/SummitRoute AWS Security Maturity Roadmap (https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
