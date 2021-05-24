@@ -26,6 +26,8 @@
   - [GitLab](#gitlab)
   
   - [Department of Defense](#department-of-defense)
+
+  - [Carnegie Melon Software Engineering Institute](Carnegie Melon Software Engineering Institute (SEI)
   
   - [Red Hat](#red-hat)
   
@@ -170,6 +172,10 @@ Leading Cloud-learning platform provider, includes built-in labs and playgrounds
 ## GitLab
 
 - [GitLab Training](https://about.gitlab.com/training/)
+
+## Carnegie Melon Software Engineering Institute
+
+- [DevSecOps Learning Playlist](https://youtube.com/playlist?list=PLQvhFTnS5hOIwcgRn7q2ctoqGbiE8Lhri) 
 
 ## Department of Defense
 
